@@ -1413,7 +1413,7 @@ section {
   border-top: 3px solid #F2A40E;
   border-bottom: 3px solid #F2A40E;
   padding: 30px;
-  background: #fff;
+  background: rgb(18, 20, 19);
   width: 100%;
   display: flex;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.1);
@@ -1438,7 +1438,8 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #37517e;
+  /* color: #37517e; */
+  color: #fff;
   width : max-content;
 }
 
@@ -1446,7 +1447,8 @@ section {
   padding: 0 0 10px 60px;
   margin-bottom: 20px;
   font-size: 14px;
-  color: #6182ba;
+  color: #fff;
+  /* color: #6182ba; */
 }
 
 .contact .info .email p {
