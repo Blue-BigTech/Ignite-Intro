@@ -44,7 +44,7 @@ h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #F2A40E;
+  background: #37517e;
 }
 
 #preloader:before {
@@ -52,7 +52,7 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #F2A40E;
+  border: 6px solid #37517e;
   border-top-color: #fff;
   border-bottom-color: #fff;
   border-radius: 50%;
@@ -115,7 +115,7 @@ h6 {
 
 #header.header-scrolled,
 #header.header-inner-pages {
-  background: rgba(242, 164, 14, 0.8);
+  background: #37517ece;
 }
 
 #header .logo {
@@ -129,7 +129,7 @@ h6 {
 }
 
 #header .logo a {
-  color: #fff;
+  color: #F2A40E;
 }
 
 #header .logo img {
@@ -386,7 +386,7 @@ h6 {
 #home {
   width: 100%;
   height: 80vh;
-  background: #F2A40E;
+  background: #37517e;
 }
 
 #home .container {
@@ -398,7 +398,7 @@ h6 {
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  color: #fff;
+  color: #F2A40E;
 }
 
 #home h2 {
@@ -418,12 +418,11 @@ h6 {
   transition: 0.5s;
   margin: 10px 0 0 0;
   color: #fff;
-  background: #F2A40E;
-  border: 1px solid #fff;
+  background: #47b2e4;
 }
 
 #home .btn-get-started:hover {
-  background: #ad7d24;
+  background: #209dd8;
 }
 
 #home .btn-watch-video {
@@ -445,7 +444,7 @@ h6 {
 }
 
 #home .btn-watch-video:hover i {
-  color: #ad7d24;
+  color: #47b2e4;
 }
 
 #home .animated {
@@ -893,7 +892,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(242, 164, 14, 0.9), rgba(242, 164, 14, 0.8)), url("../img/cta-bg.jpg") fixed center center;
+  background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url("../img/cta-bg.jpg") fixed center center;
   background-size: cover;
   padding: 120px 0;
 }
@@ -1543,7 +1542,7 @@ section {
 --------------------------------------------------------------*/
 #footer {
   font-size: 14px;
-  background: #F2A40E;
+  background: #37517e;
 }
 
 #footer .footer-newsletter {
